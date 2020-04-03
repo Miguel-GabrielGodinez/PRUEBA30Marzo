@@ -5,6 +5,8 @@
  */
 package repositorioimpresiondedatos;
 
+import java.util.Scanner;
+
 /**
  *
  * @author hp
@@ -16,6 +18,21 @@ public class RepositorioImpresionDeDatos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    Scanner impresion = new Scanner(System.in);
+        //DECLARACION DE VARIABLE
+         // CADENAS 
+        String nombre,direccion,telefono;
+        nombre = "Miguel Angel Gabriel Godinez";
+        System.out.println("NOMBRE:"+nombre);
+        direccion = "Huehuetenango Zona 8";
+        System.out.println("DIRECCION:"+direccion);
+        telefono = "47201272";
+        System.out.println("TELEFONO:"+telefono);
+       
+      
+        
+       
     }
     
 }
+ 
