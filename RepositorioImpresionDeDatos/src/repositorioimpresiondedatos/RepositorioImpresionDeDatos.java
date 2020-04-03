@@ -19,8 +19,7 @@ public class RepositorioImpresionDeDatos {
     public static void main(String[] args) {
         // TODO code application logic here
     Scanner impresion = new Scanner(System.in);
-        //DECLARACION DE VARIABLE
-         // CADENAS 
+        
         String nombre,direccion,telefono;
         nombre = "Miguel Angel Gabriel Godinez";
         System.out.println("NOMBRE:"+nombre);
