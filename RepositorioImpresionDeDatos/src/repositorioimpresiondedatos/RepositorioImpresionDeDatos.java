@@ -28,7 +28,9 @@ public class RepositorioImpresionDeDatos {
         telefono = "47201272";
         System.out.println("TELEFONO:"+telefono);
        
-      
+       System.out.println("Nombre: Moises Natanael Recinos A");
+       System.out.println("Direccion: Huehuetenango  Zona 4");
+       System.out.println("Telefono: 33299869");
         
        
     }
